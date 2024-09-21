@@ -197,16 +197,13 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 
 
 
-<details align="center">
+<div align="center">
    
-  <summary> 
-    <h2> ➡️CONNECT WITH ME </h2> 
-    
-  </summary>
+  <h2> ➡️CONNECT WITH ME 👁️</h2> 
 <br>
 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</details>
+</div>
 
 
 
