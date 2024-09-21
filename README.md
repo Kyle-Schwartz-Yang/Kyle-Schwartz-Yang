@@ -105,8 +105,8 @@ const person = {
 
 <hr>
 
-### 📈 Мой GitHub Статус
-p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" /></p>
+### 📈 S.T.A.T.U.S
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" /></div>
 <hr>
 
 
