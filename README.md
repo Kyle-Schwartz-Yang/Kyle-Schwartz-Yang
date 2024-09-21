@@ -3,7 +3,9 @@
 
 
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
