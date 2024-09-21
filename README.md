@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
+<div align="center">  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8"></div>
+  
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
 ```
@@ -58,7 +60,6 @@ LOGO GITGUB
 
 <div align="center">
 
-  
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26) 
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
@@ -108,18 +109,19 @@ const person = {
 <hr>
 
 ### 📈 S.T.A.T.U.S
-
-<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" />
 </div>
--->
 
-<div align="center">
+<!--
+<div align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
 </div>
+-->
+
+
 <hr>
 
 
