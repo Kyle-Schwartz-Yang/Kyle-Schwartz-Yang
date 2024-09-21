@@ -199,7 +199,7 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 <details>
    
   <summary> 
-    <h2> ➡️CONNECT WITH ME ☎️</h2>
+    <h2> ➡️CONNECT WITH ME</h2>
   </summary>
 <br>
 
