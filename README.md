@@ -200,7 +200,7 @@ console.log(0 == -0);  // true (сравнение с приведением т�
    
   <summary> 
     <h2> 
-       Connect with me : ✨
+      ✨ Connect with me : ✨
     </h2>
   </summary>
 <br>
