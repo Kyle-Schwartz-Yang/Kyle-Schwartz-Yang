@@ -50,7 +50,18 @@ LOGO GITGUB
 
 </div>
 
-<hr>
+<div align="center">
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&#8287;&#8287;&#8287;
+![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287;
+![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white) &#8287;
+![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250) &#8287;
+![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white) &#8287;
+![Lodash](https://img.shields.io/badge/Lodash-%234A148C?style=for-the-badge&logo=lodash&logoColor=white) &#8287;
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
+</div>
+
+
 
 <!--
 ```javascript
@@ -71,16 +82,7 @@ const person = {
 <hr>
 -->
 
-<div align="center">
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&#8287;&#8287;&#8287;
-![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287;
-![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white) &#8287;
-![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250) &#8287;
-![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white) &#8287;
-![Lodash](https://img.shields.io/badge/Lodash-%234A148C?style=for-the-badge&logo=lodash&logoColor=white) &#8287;
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
-</div>
 <hr>
 
 
