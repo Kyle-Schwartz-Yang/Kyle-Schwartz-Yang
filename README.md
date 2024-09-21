@@ -26,7 +26,7 @@
 
 <hr>
 
-## S.K.I.L.L.S 🌱 
+
 <!-- 
 LOGO GITGUB
  <a href="https://github.com/peterthehan">
@@ -37,7 +37,9 @@ LOGO GITGUB
 -->
 
 <div align="center">
-
+  <h3>S.K.I.L.L.S 🌱 </h3>
+<hr>
+  
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26) 
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
@@ -200,7 +202,7 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 
 
 <div align="center">
-  <h3> 👁️ CONNECT WITH ME <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;</h3> 
+  <h3> 👁️ CONNECT WITH ME &nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /></h3> 
 <br>
 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
