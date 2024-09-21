@@ -106,7 +106,7 @@ const person = {
 <hr>
 
 ### 📈 Мой GitHub Статус
-![Ваш статус GitHub](https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&hide_title=true&hide=prs)
+p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" /></p>
 <hr>
 
 
