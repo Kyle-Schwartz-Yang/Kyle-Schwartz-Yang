@@ -108,14 +108,18 @@ const person = {
 <hr>
 
 ### 📈 S.T.A.T.U.S
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" /></div>
 
+<!--
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" />
+</div>
+-->
 
-<p align="center">
+<div align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
-</p>
+</div>
 <hr>
 
 
