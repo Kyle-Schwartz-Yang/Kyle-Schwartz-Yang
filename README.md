@@ -35,10 +35,10 @@ LOGO GITGUB
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
  </a> &#8287;&#8287;&#8287;&#8287;&#8287;
 -->
+### S.K.I.L.L.S 🌱
 
 <div align="center">
-  <h3>S.K.I.L.L.S 🌱 </h3>
-<hr>
+
   
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26) 
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
@@ -203,7 +203,7 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 
 
 
-<div align="center">
+<div align="left">
   <h3>  C👁️NNECT WITH ME &nbsp;📞</h3> 
 <br>
 
