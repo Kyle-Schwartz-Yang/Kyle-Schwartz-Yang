@@ -199,13 +199,14 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 <details>
    
   <summary> 
-    <h2> ➡️CONNECT WITH ME [💬](https://t.me/kyle_schwartz) </h2>
+    <h2> ➡️CONNECT WITH ME </h2>
   </summary>
 <br>
 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </details>
 
+ 
 
 <!--
 <div align="left">
@@ -221,6 +222,8 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 
 <!--Author: Harry Potter-->
 <div align="center">
+
+  [💬](https://t.me/kyle_schwartz)
   <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
