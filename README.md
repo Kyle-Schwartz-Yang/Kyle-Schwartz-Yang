@@ -92,11 +92,6 @@ const person = {
 ![Ваш статус GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs)
 <hr>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
-</div>
-
-
 
 
 <details>
