@@ -24,9 +24,9 @@
 </div>
 
 
+<hr>
 
-## Мої Навички 👀
-
+## S.K.I.L.L.S 🌱 
 <!-- 
 LOGO GITGUB
  <a href="https://github.com/peterthehan">
@@ -71,7 +71,7 @@ const person = {
 <hr>
 -->
 
-<p align="left">
+<div align="center">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&#8287;&#8287;&#8287;
 ![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287;
@@ -80,7 +80,7 @@ const person = {
 ![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white) &#8287;
 ![Lodash](https://img.shields.io/badge/Lodash-%234A148C?style=for-the-badge&logo=lodash&logoColor=white) &#8287;
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
-</p>
+</div>
 <hr>
 
 
@@ -200,13 +200,14 @@ console.log(0 == -0);  // true (сравнение с приведением т�
    
   <summary> 
     <h2> 
-      ✨ Connect with me : ✨
+      📲 CONNECT WITH ME : 🤙🏻
     </h2>
   </summary>
 <br>
 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </details>
+
 
 <!--
 <div align="left">
@@ -217,9 +218,14 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 
 <hr>
 
-### Support me &#8287; <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">&#8287; 
+
+
+### Support me
 <!--Author: Harry Potter-->
 <p align="left">
   <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </p>
 
+<!--
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+-->
