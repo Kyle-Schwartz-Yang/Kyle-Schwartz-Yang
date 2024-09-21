@@ -4,7 +4,8 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+ 
+  <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
 </p>
 
 
@@ -140,21 +141,6 @@ const person = {
 <hr>
 
 
-
-<details>
-    <summary> 
-    <b><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;Code Edditor 📜 </b>
-  </summary>
- 
-   <hr>
-  
-  - 🖊️ Code editor online [GO](https://onlineinterview.io/) 🚀
-  - 🖊️ Codesandbox [GO](https://codesandbox.io/?from-app=1) 🚀
-  - 🖊️ Codepen [GO](https://codepen.io/) 🚀
-
-  <hr>
-  
-</details>
 
 <details>
    
