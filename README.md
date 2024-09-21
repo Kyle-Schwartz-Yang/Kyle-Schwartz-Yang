@@ -199,9 +199,9 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 <details>
    
   <summary> 
-    <b> 
-      💡 Connect with me : 
-    </b>
+    <h2> 
+       Connect with me : ✨
+    </h2>
   </summary>
 <br>
 
