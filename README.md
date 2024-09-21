@@ -199,9 +199,7 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 <details>
    
   <summary> 
-    <h2> 
-      📲 CONNECT WITH ME : 🤙🏻
-    </h2>
+    <h2> ➡️CONNECT WITH ME ☎️</h2>
   </summary>
 <br>
 
@@ -220,11 +218,11 @@ console.log(0 == -0);  // true (сравнение с приведением т�
 
 
 
-### Support me
+
 <!--Author: Harry Potter-->
-<p align="left">
+<div align="center">
   <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</p>
+</div>
 
 <!--
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
