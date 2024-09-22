@@ -57,7 +57,7 @@ https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/
 -->
 
 
-  <h2 align="center">🍀 WELCOME MY PROFILE <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+  <h2 align="center">🍀 W.E.L.C.O.M.E <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків ☎️. Тепер у нас є пристрої, які можуть робити абсолютно все 🚀. І тепер моє завдання 🎓 — зробити це 'ВСЕ' адаптивним і доступним, щоб навіть мій телефон зміг легко адаптуватися до того, що він все ще використовується в основному для перевірки, скільки часу⏰ до наступного обіду!
 </div>
@@ -74,8 +74,8 @@ LOGO GITGUB
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
  </a> &#8287;&#8287;&#8287;&#8287;&#8287;
 -->
-
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="25px" alt='hear'> S.K.I.L.L.S  </h1>
+<!--h1 может быть только 1 на странице -->
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="25px" alt='hear'> S.K.I.L.L.S </h1>
 
 <div align="center">
 
@@ -128,7 +128,9 @@ const person = {
 
 <hr>
 
-### 📈 S.T.A.T.U.S
+
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'> S.T.A.T.U.S </h1>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" />
 </div>
