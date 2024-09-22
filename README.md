@@ -37,11 +37,11 @@ https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt='hear'> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
 </div>
 
 <!--
-
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt='hear'> 
 - Приготовся : статистика используемых языков 
 
 <div align="center">  
