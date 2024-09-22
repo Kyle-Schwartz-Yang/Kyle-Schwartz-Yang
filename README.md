@@ -28,6 +28,8 @@ https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Lion.webp" width="10%" alt='hear'> 
+
+
 -->
 
 <div align="center">
@@ -72,11 +74,13 @@ LOGO GITGUB
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
  </a> &#8287;&#8287;&#8287;&#8287;&#8287;
 -->
-### S.K.I.L.L.S 🌱
+
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="25px" alt='hear'> S.K.I.L.L.S  </h1>
 
 <div align="center">
+
   
-![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26) 
+![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)  
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%234B4B5D?style=for-the-badge&logo=typescript&logoColor=%233178C6)
