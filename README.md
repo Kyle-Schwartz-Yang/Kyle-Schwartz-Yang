@@ -3,10 +3,14 @@
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<p align="left">
- 
+
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
-</p>
+</div>
+
+
+<br>
+
 
  
 
@@ -14,6 +18,10 @@
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
 ```
+<div align="right">
+
+ [![Donate](https://img.shields.io/badge/Donate-%23282C34?style=for-the-badge&logo=paypal&logoColor=FFCC00)](https://your-donation-link.com)
+</div>
 <div align="center">
   
 <!--   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/> -->
@@ -187,21 +195,13 @@ const person = {
 <div align="center">
 
   <!--
-  [![Donate](https://img.shields.io/badge/Donate-%23282C34?style=for-the-badge&logo=paypal&logoColor=FFCC00)](https://your-donation-link.com)
-  <p> <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
+
   -->
 
 
-<div>
-  <img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Coin.png" width="25px" alt='coin'> 
-  <img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Coin.png" width="25px" alt='coin'> 
-  <img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Coin.png" width="25px" alt='coin'> 
- 
- [![Coffee](https://img.shields.io/badge/Coffee-%23282C34?style=for-the-badge&logo=buymeacoffee&logoColor=FFCC00)](https://www.buymeacoffee.com/yourusername)
- [![Coffee](https://img.shields.io/badge/ByuMeCoffee-%23282C34?style=for-the-badge&logo=buymeacoffee&logoColor=FFCC00)](https://www.buymeacoffee.com/yourusername)
-</div>
 
-
+  
+  <p> <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
 
 </div>
 
