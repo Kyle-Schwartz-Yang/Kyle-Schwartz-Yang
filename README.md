@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
 </p>
 
+ 
 
   
 ```javascript
@@ -178,9 +179,15 @@ const person = {
 
 <!--Author: Harry Potter-->
 <div align="center">
-  
- <p> <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
+
+  <!--
+  <p> <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
+  -->
  
+[![Donate](https://img.shields.io/badge/Donate-%23282C34?style=for-the-badge&logo=paypal&logoColor=FFCC00)](https://your-donation-link.com)
+[![Coffee](https://img.shields.io/badge/Coffee-%23282C34?style=for-the-badge&logo=buymeacoffee&logoColor=FFCC00)](https://www.buymeacoffee.com/yourusername)
+
+
 </div>
 
 <!--
