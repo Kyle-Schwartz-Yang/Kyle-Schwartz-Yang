@@ -146,7 +146,7 @@ const person = {
 <hr>
 
 
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'> S.T.A.T.U.S </h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S </h1>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" />
@@ -154,6 +154,7 @@ const person = {
 
 <!--
 <div align="left">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'>
   <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
@@ -162,18 +163,11 @@ const person = {
 
 
 
-
-
-
-
 <hr/>
 
 
-
-
-
 <div align="left">
-  <h3>  C👁️NNECT WITH ME 📬 </h3> 
+  <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />  C👁️NNECT WITH ME 📬  </h3> 
 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
@@ -200,8 +194,10 @@ const person = {
 
 
 
+
+
   
-  <p> <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="50" />   <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
 
 </div>
 
