@@ -39,6 +39,11 @@ https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
+
+
+
+
+ 
 </div>
 
 <!--
@@ -65,6 +70,7 @@ https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/
 
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 
 <!-- 
@@ -181,11 +187,20 @@ const person = {
 <div align="center">
 
   <!--
+  [![Donate](https://img.shields.io/badge/Donate-%23282C34?style=for-the-badge&logo=paypal&logoColor=FFCC00)](https://your-donation-link.com)
   <p> <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
   -->
+
+
+<div>
+  <img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Coin.png" width="25px" alt='coin'> 
+  <img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Coin.png" width="25px" alt='coin'> 
+  <img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Coin.png" width="25px" alt='coin'> 
  
-[![Donate](https://img.shields.io/badge/Donate-%23282C34?style=for-the-badge&logo=paypal&logoColor=FFCC00)](https://your-donation-link.com)
-[![Coffee](https://img.shields.io/badge/Coffee-%23282C34?style=for-the-badge&logo=buymeacoffee&logoColor=FFCC00)](https://www.buymeacoffee.com/yourusername)
+ [![Coffee](https://img.shields.io/badge/Coffee-%23282C34?style=for-the-badge&logo=buymeacoffee&logoColor=FFCC00)](https://www.buymeacoffee.com/yourusername)
+ [![Coffee](https://img.shields.io/badge/ByuMeCoffee-%23282C34?style=for-the-badge&logo=buymeacoffee&logoColor=FFCC00)](https://www.buymeacoffee.com/yourusername)
+</div>
+
 
 
 </div>
