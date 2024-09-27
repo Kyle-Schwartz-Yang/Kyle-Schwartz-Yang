@@ -38,20 +38,17 @@ https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Lion.webp" width="10%" alt='hear'> 
 
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
 -->
 
 <div align="center">
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='hear'> 
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
 
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
 
-
-
- 
 </div>
 
 <!--
