@@ -18,10 +18,7 @@
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
 ```
-<div align="right">
 
- [![Donate](https://img.shields.io/badge/Donate-%23282C34?style=for-the-badge&logo=paypal&logoColor=FFCC00)](https://your-donation-link.com)
-</div>
 <div align="center">
   
 <!--   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/> -->
