@@ -41,10 +41,11 @@ GITHUB LOGO
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
 </div>
 -->
-  <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
 
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+
+<!--Статистика использования языков-->
 <div align="left">
- 
 <div align="left">
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" alt='hand hello'>
   &nbsp;
@@ -56,37 +57,38 @@ GITHUB LOGO
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="200" height="200" alt="fice welcome"/>
 </div>
 
-
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-<!--Profile view-->
 
 
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <br>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
 ```
 
-<!--Статистика использования языков-->
-<div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-</div>
-
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <hr>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-<!--Небольшая истоиря-->
+<!--Небольшая история-->
 <div align="center">
   Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків ☎️. Тепер у нас є пристрої, які можуть робити абсолютно все 🚀. І тепер моє завдання 🎓 — зробити це 'ВСЕ' адаптивним і доступним, щоб навіть мій телефон зміг легко адаптуватися до того, що він все ще використовується в основному для перевірки, скільки часу⏰ до наступного обіду!
 </div>
 
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <hr>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Какие инструменты и какие технологи используется-->
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="25px" alt='hear'> S.K.I.L.L.S </h1>
 
 <div align="center">
-  
+ 
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)  
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
@@ -96,10 +98,11 @@ GITHUB LOGO
 ![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white) &#8287;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white) &#8287;
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white) &#8287;
-
 </div>
 
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <hr>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--LIST  REACT технологий-->
 <div align="center">
@@ -113,7 +116,9 @@ GITHUB LOGO
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
 </div>
 
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <hr>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 
 <!--Обычная статистика-->
@@ -123,7 +128,9 @@ GITHUB LOGO
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" />
 </div>
 
-<hr/>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<hr>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Мои контакты-->
 <div align="left">
@@ -132,13 +139,16 @@ GITHUB LOGO
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
-<!---------------------------------------------------------------------------------------->
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Author: Harry Potter-->
 <div align="center">
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="50" />   <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
 </div>
 
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
