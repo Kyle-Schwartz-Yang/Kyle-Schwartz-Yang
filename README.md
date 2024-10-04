@@ -110,8 +110,9 @@ GITHUB LOGO
 ![TypeScript](https://img.shields.io/badge/TypeScript-%234B4B5D?style=for-the-badge&logo=typescript&logoColor=%233178C6)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%234B4B5D?style=for-the-badge&logo=git&logoColor=%23f05032)&#8287;
 ![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white)&#8287;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white)&#8287;
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)&#8287;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white)&#8287;
+
 </div>
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
