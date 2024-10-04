@@ -53,7 +53,7 @@ GITHUB LOGO
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
 
 <!--Статистика использования языков-->
-<div align="left" style="display: flex; justify-content: space-between;">
+<div align="center">
 <div align="left">
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" alt='hand hello'>
   &nbsp;
