@@ -1,6 +1,7 @@
-<!--Изображения-->
+<!--Изображения статика-->
 <!--  
 &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/> 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 
@@ -45,7 +46,7 @@ GITHUB LOGO
 
 <!--Мои контакты   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="24" alt="fice hello"/>&#8287; CONNECT  </h1> -->
 <div align="center">
-  
+ 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
@@ -93,19 +94,18 @@ GITHUB LOGO
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Какие инструменты и какие технологи используется-->
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="25px" alt='hear'> S.K.I.L.L.S </h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="25px" alt="It's working but you don't know how!"/> S.K.I.L.L.S </h1>
 
 <div align="center">
  
-![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)  
-![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
-![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-%234B4B5D?style=for-the-badge&logo=typescript&logoColor=%233178C6)
-![Git](https://img.shields.io/badge/Git-%234B4B5D?style=for-the-badge&logo=git&logoColor=%23f05032)
-
-![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white) &#8287;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white) &#8287;
-![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white) &#8287;
+![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%234B4B5D?style=for-the-badge&logo=typescript&logoColor=%233178C6)&nbsp;
+![Git](https://img.shields.io/badge/Git-%234B4B5D?style=for-the-badge&logo=git&logoColor=%23f05032)&#8287;
+![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white)&#8287;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white)&#8287;
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)&#8287;
 </div>
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
@@ -114,10 +114,10 @@ GITHUB LOGO
 
 <!--LIST  REACT технологий-->
 <div align="center">
- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+
  
-<a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&#8287;&#8287;&#8287;
-![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287;
+<a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" /></a>&#8287;&#8287;&#8287;
+<!--![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287; -->
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white) &#8287;
 ![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250) &#8287;
 ![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white) &#8287;
@@ -141,11 +141,6 @@ GITHUB LOGO
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Kyle-Schwartz-Yang"/>
  </a>
 </div>
-
-<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-<hr>
-<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-
 
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
