@@ -35,14 +35,15 @@ GITHUB LOGO
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" />
 -->
 
+<!--Статистика виджиты-->
+
 <!--
-<div align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'>
-  <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
-</div>
+ <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/></a
+<img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+ <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
 -->
+
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
@@ -138,8 +139,10 @@ GITHUB LOGO
 <!--Обычная статистика-->
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S </h1>
 
-<div align="center"><a href=""><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Kyle-Schwartz-Yang github-readme-stats"/></a>&nbsp;<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/></a></div>
+<div align="center"><a href=""><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></a>&nbsp;
+ <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/></a></div>
 
+<!--ЗАМЕНА <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00" width="48% alt="@Kyle-Schwartz-Yang">-->
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
