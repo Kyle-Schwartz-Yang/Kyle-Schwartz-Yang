@@ -3,12 +3,26 @@
 &nbsp;&nbsp;
 <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/> 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+
+GITHUB LOGO 
+ <a href="https://github.com/peterthehan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
+ </a>
 -->
 
 
 <!--icon animation-->
 <!--
 &nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="fice welcome"/>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="fly bird">
+<img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eye.png" alt="Folded Hands Light Skin Tone" width="20" height="25" alt='Глаз'/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Rainbow.webp" width="10%" alt='rainbow'>
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt='hear'> 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt="It's working but you don't know how!"/>
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Love%20Letter.png" width="10%" alt="It's working but you don't know how!"/>
@@ -19,10 +33,36 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
 -->
 
-
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
+<!--
 <div align="left">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'>
+  <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
+</div>
+-->
+  <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+
+<div align="center">
+
+
+
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="200" height="200" />
+
+   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
+
+  
+
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+</div>
+
+
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+
+<!--Profile view-->
+<div align="left">
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" alt='hand hello'>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
 </div>
 
@@ -32,59 +72,24 @@
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
 ```
 
-
 <!--Статистика использования языков-->
-
-<div align="left">
+<div align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Rainbow.webp" width="10%" alt='rainbow'>
-
-
 </div>
 
-<!--
+<hr>
 
+<!--Небольшая истоиря-->
 <div align="center">
-
-<div align="center">
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
-</div>
--->
-
-
-
-
-
-  <h1 align="left"> W.E.L.C.O.M.E <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-
-Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків ☎️. Тепер у нас є пристрої, які можуть робити абсолютно все 🚀. І тепер моє завдання 🎓 — зробити це 'ВСЕ' адаптивним і доступним, щоб навіть мій телефон зміг легко адаптуватися до того, що він все ще використовується в основному для перевірки, скільки часу⏰ до наступного обіду!
+  Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків ☎️. Тепер у нас є пристрої, які можуть робити абсолютно все 🚀. І тепер моє завдання 🎓 — зробити це 'ВСЕ' адаптивним і доступним, щоб навіть мій телефон зміг легко адаптуватися до того, що він все ще використовується в основному для перевірки, скільки часу⏰ до наступного обіду!
 </div>
 
+<hr>
 
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-
-
-<!-- 
-LOGO GITGUB
- <a href="https://github.com/peterthehan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
- </a> &#8287;&#8287;&#8287;&#8287;&#8287;
--->
-<!--h1 может быть только 1 на странице -->
-
-
+<!--Какие инструменты и какие технологи используется-->
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="25px" alt='hear'> S.K.I.L.L.S </h1>
 
 <div align="center">
-
   
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)  
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)
@@ -100,6 +105,7 @@ LOGO GITGUB
 
 <hr>
 
+<!--LIST  REACT технологий-->
 <div align="center">
 
 <a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&#8287;&#8287;&#8287;
@@ -111,85 +117,32 @@ LOGO GITGUB
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
 </div>
 
-
-
-<!--
-```javascript
-const person = {
-    pronouns: "her", 🌱
-    code: [HTML, CSS, Javascript,TypeScript], 
-    preprocessors: [PUG, SCSS], 
-    library: [React, Chart, Swiper, Bootstrap], 
-    tools: {
-      Git: "version control",
-      Gulp: "task automation",
-      NPM: "package management",
-      Webpack: "module bundler"
-    },
-   message: "The most important thing is to keep it simple" 🚩
-}
-```
-<hr>
--->
-
 <hr>
 
 
+<!--Обычная статистика-->
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S </h1>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&&theme=tokyonight" alt="Harry" />
 </div>
 
-<!--
-<div align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'>
-  <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
-</div>
--->
-
-
-
 <hr/>
 
-
+<!--Мои контакты-->
 <div align="left">
-  <h1> C&#8287;<img src="https://github.com/Kyle-Schwartz-Yang/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eye.png" alt="Folded Hands Light Skin Tone" width="20" height="25" />&#8287;NNECT WITH ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" />  </h1> 
+    <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="24" alt="fice hello"/>&#8287; CONNECT <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" />  </h1> 
 
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
-
-
-
-<!--
-<div align="left">
-<h2> Connect with me </h2>
-<a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</div>
--->
-
-<hr>
-
+<!---------------------------------------------------------------------------------------->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <!--Author: Harry Potter-->
 <div align="center">
-
-  <!--
-
-  -->
-
-
-
-
-
-  
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="50" />   <a href="https://send.monobank.ua/3v9Qm5QtGT" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
-
 </div>
 
-<!--
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
--->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
