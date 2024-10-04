@@ -67,7 +67,7 @@ GITHUB LOGO
 
  <div>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="20%"  alt='level up'>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8" width="30%" >
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8" width="40%" >
   
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="20%" > 
  </div>
