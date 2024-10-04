@@ -44,14 +44,21 @@ GITHUB LOGO
 </div>
 -->
 
+
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <!--Мои контакты   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="24" alt="fice hello"/>&#8287; CONNECT  </h1> -->
 <div align="center">
  
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
 
+
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <!--Статистика использования языков-->
 <div align="left">
 <div align="left">
@@ -72,11 +79,6 @@ GITHUB LOGO
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-
-
-<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-
-<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
