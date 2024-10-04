@@ -1,52 +1,57 @@
+<!--Изображения-->
+<!--  
+&nbsp;&nbsp;
+<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/> 
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+-->
 
+
+<!--icon animation-->
+<!--
+&nbsp;
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt='hear'> 
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Love%20Letter.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cyclone.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Lion.webp" width="10%" alt='hear'> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
+-->
 
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=BreadcrumbsKyle-Schwartz-Yang&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
 </div>
 
-
 <br>
 
-
- 
-
-  
 ```javascript
 ✨ const message = 'І я не знаю — сила це чи слабкість.' ✨
 ```
 
-<div align="center">
-  
-<!--   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/> -->
-<!--  <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" /> -->
 
+<!--Статистика использования языков-->
 
 <!--
-https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png
-https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Love%20Letter.png
-https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cyclone.png
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Lion.webp" width="10%" alt='hear'> 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
--->
+<div align="center">
 
 <div align="center">
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;
-
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
-
 </div>
+-->
+<div align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+</div>
+
 
 <!--
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt='hear'> 
