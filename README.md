@@ -35,8 +35,15 @@
 
 <!--Статистика использования языков-->
 
-<!--
+<div align="left">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Rainbow.webp" width="10%" alt='rainbow'>
 
+
+</div>
+
+<!--
 
 <div align="center">
 
@@ -48,29 +55,12 @@
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
 </div>
 -->
-<div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-</div>
 
 
-<!--
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="10%" alt='hear'> 
-- Приготовся : статистика используемых языков 
-
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
-&nbsp;&nbsp;&nbsp;
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-&nbsp;&nbsp;&nbsp;
-    
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Fire.webp" width="10%" alt='hear'> 
-
-</div>
-
--->
 
 
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Rainbow.webp" width="25px" alt='hear'> W.E.L.C.O.M.E <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+
+  <h1 align="left"> W.E.L.C.O.M.E <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
 Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків ☎️. Тепер у нас є пристрої, які можуть робити абсолютно все 🚀. І тепер моє завдання 🎓 — зробити це 'ВСЕ' адаптивним і доступним, щоб навіть мій телефон зміг легко адаптуватися до того, що він все ще використовується в основному для перевірки, скільки часу⏰ до наступного обіду!
 </div>
