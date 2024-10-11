@@ -100,7 +100,7 @@ GITHUB LOGO
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Какие инструменты и какие технологи используется-->
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="25px" alt="It's working but you don't know how!"/> S.K.I.L.L.S </h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="25px" alt="It's working but you don't know how!"/> <mark>МАЙСТЕР</mark>НІСТЬ</h1>
 
 <div align="center">
  
