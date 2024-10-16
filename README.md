@@ -44,13 +44,12 @@ GITHUB LOGO
  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
 -->
 
-<div align="center">
 
- ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/large)
-</div>
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
+
+
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Мои контакты   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="24" alt="fice hello"/>&#8287; CONNECT  </h1> -->
@@ -108,6 +107,11 @@ GITHUB LOGO
 
 <div align="center">
  
+ ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/large)
+</div>
+
+<div align="center">
+ 
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)&nbsp;
@@ -123,10 +127,11 @@ GITHUB LOGO
 <hr>
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
+
+
 <!--LIST  REACT технологий-->
 <div align="center">
 
- 
 <a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" /></a>&#8287;&#8287;&#8287;
 <!--![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287; -->
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white) &#8287;
@@ -145,7 +150,9 @@ GITHUB LOGO
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S </h1>
 
 <div align="center"><a href=""><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></a>&nbsp;
- <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/></a></div>
+ <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/></a>
+
+</div>
 
 <!--ЗАМЕНА <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00" width="48% alt="@Kyle-Schwartz-Yang">-->
 
