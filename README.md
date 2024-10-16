@@ -105,10 +105,15 @@ GITHUB LOGO
 <!--Какие инструменты и какие технологи используется-->
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="25px" alt="It's working but you don't know how!"/> МАЙСТЕРНІСТЬ</h1>
 
-<div align="center">
+
+<div align="left">
+
  
- ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/large)
+ ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
+ <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="20" height="25" alt='fire'/> 
 </div>
+
+
 
 <div align="center">
  
@@ -140,6 +145,8 @@ GITHUB LOGO
 ![Lodash](https://img.shields.io/badge/Lodash-%234A148C?style=for-the-badge&logo=lodash&logoColor=white) &#8287;
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
 </div>
+
+
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <hr>
