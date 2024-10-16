@@ -101,17 +101,21 @@ GITHUB LOGO
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <hr>
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<div align="left">
+
+ ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+</div>
 
 <!--Какие инструменты и какие технологи используется-->
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="25px" alt="It's working but you don't know how!"/> МАЙСТЕРНІСТЬ</h1>
 
 
-<div align="left">
 
- 
- ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="20" height="25" alt='fire'/> 
-</div>
 
 
 
