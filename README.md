@@ -105,9 +105,10 @@ GITHUB LOGO
 
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
+
  
-  ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
- : S.K.I.L.L.S  </h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />  S.K.I.L.L.S: ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
+ </h1>
 
 
 <div align="center">
