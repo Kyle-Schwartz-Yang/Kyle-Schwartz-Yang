@@ -114,7 +114,7 @@ GITHUB LOGO
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="65px" alt='сool'>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="105px" alt='сool'>
 
 
 </div>
