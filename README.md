@@ -17,6 +17,7 @@ GITHUB LOGO
 <!--icon animation-->
 <!--
 &nbsp;
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%" alt='pokemon'/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="25px" alt='сool'>
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="10%" alt='fire'> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="10%" alt="fice welcome"/>
@@ -105,21 +106,17 @@ GITHUB LOGO
 
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
-
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />  S.K.I.L.L.S: ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" width="45px" alt='pokemon'> S.K.I.L.L.S 🔦 ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
  </h1>
 
 
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Cool%20Button.webp" width="105px" alt='сool'>
-
-
 </div>
 
-
+<br>
 
 <div align="center">
  
