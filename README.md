@@ -111,11 +111,6 @@ GITHUB LOGO
  </h1>
 
 
-<div align="center">
-
-<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" width="105px" alt='pokemon'>
-</div>
-
 <br>
 
 <div align="center">
