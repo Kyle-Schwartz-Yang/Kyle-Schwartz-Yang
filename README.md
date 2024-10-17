@@ -107,13 +107,13 @@ GITHUB LOGO
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
  
-<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" width="45px" alt='pokemon'> S.K.I.L.L.S 🔦 ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦 ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
  </h1>
 
 
 <div align="center">
 
-
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" width="105px" alt='pokemon'>
 </div>
 
 <br>
