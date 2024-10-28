@@ -59,10 +59,6 @@ GITHUB LOGO
 <div align="center">
 <a href="https://t.me/kyle_schwartz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.gg/ваш_канал" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
  
-<a href="https://chess.com/play/Sh221b" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Chess-%2300CC00?style=for-the-badge&logo=chess&logoColor=white" alt="Play Chess" />
-</a>
-
 [![Play Chess](https://img.shields.io/badge/Play_Chess-%2300AA00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTE5IDIySDV2LTJoMTR2Mk0xNy4xNiA4LjI2QTguOTQgOC45NCAwIDAwMTggNVYyaC0ydjJoLTJWMmgtNHYySDhWMkg2djNjMCAxLjE0LjMgMi4yNy44OSAzLjI2TDQuNzcgMTVoMTQuNDZMMTcuMTYgOC4yNk0xMiAxMWEyIDIgMCAwMS0yLTIgMiAyIDAgMDEyLTIgMiAyIDAgMDEyIDIgMiAyIDAgMDEtMiAyeiIvPjwvc3ZnPg==)](https://chess.com/play/Skankhunt221b)
 
 </div>
