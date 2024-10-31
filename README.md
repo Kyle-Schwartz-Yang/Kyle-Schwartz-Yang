@@ -147,22 +147,25 @@ GITHUB LOGO
 <!--![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287; 
 
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white) &#8287;
-
+![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250)&#8287;
 ![Lodash](https://img.shields.io/badge/Lodash-%234A148C?style=for-the-badge&logo=lodash&logoColor=white) &#8287;
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 -->
 <!--НеБольшое описание-->
 
-`Expanding my knowledge base...`  
-<div align="left">
 
- <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%" alt='pokemon'/>
+<div align="center">
+
+
+ `Expanding my knowledge base...`
  
-![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250)&#8287;
+ <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif"  width="50" alt='pokemon'/>
+
 </div>
 
+ 
 
 </div>
 
