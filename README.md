@@ -104,7 +104,7 @@ GITHUB LOGO
 
 <!--Небольшая история-->
 <div align="center">
-🧠 Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків 📞. Тепер ми маємо пристрої, які можуть робити абсолютно все 🚀. А моє завдання як frontend-розробника 🎨 — зробити це 'ВСЕ' адаптивним і доступним! Щоб навіть мій телефон з 4-дюймовим екраном міг легко впоратися з тим, що він в основному використовується для перевірки, скільки часу залишилося до наступної перерви на каву ☕⏳.
+Пам'ятаю часи, коли перші мобільні телефони використовувалися лише для дзвінків 📞. Тепер ми маємо пристрої, які можуть робити абсолютно все 🚀. А моє завдання як frontend-розробника 🎨 — зробити це 'ВСЕ' адаптивним і доступним! Щоб навіть мій телефон з 4-дюймовим екраном міг легко впоратися з тим, що він в основному використовується для перевірки, скільки часу залишилося до наступної перерви на каву ☕⏳.
 </div>
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
@@ -115,14 +115,15 @@ GITHUB LOGO
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦 ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif"  width="35" alt='pokemon'/> 
+
  </h1>
 
 
 <br>
 
 <div align="center">
- 
+
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)&nbsp;
@@ -143,6 +144,7 @@ GITHUB LOGO
 <!--LIST  REACT технологий-->
 <div align="center">
 
+ 
 <a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" /></a>&#8287;&#8287;&#8287;
 <!--![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287; 
 
@@ -155,15 +157,9 @@ GITHUB LOGO
 -->
 <!--НеБольшое описание-->
 
+ 📌`Expanding my knowledge base...`
 
-<div align="center">
 
-
- `Expanding my knowledge base...`
- 
- <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif"  width="50" alt='pokemon'/>
-
-</div>
 
  
 
@@ -177,7 +173,12 @@ GITHUB LOGO
 
 
 <!--Обычная статистика-->
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S </h1>
+<h1> 
+ 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S 🔦  ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro) 
+ 
+
+</h1>
 
 <div align="center"><a href=""><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></a>&nbsp;
  <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/></a>
