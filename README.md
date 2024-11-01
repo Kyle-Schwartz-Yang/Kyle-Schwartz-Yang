@@ -124,6 +124,8 @@ GITHUB LOGO
 
 <div align="center">
 
+<a href="https://github.com/Kyle-Schwartz-Yang" target="_blank">
+ 
 ![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)&nbsp;
@@ -132,6 +134,10 @@ GITHUB LOGO
 ![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white)&#8287;
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)&#8287;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white)&#8287;
+
+</a>
+
+
 
 </div>
 
