@@ -71,7 +71,7 @@ GITHUB LOGO
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </a>
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <!--Статистика использования языков-->
-<div align="left" class="big">
+<div align="left">
 <div align="left">
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" alt='hand hello'>
   &nbsp;
@@ -79,13 +79,14 @@ GITHUB LOGO
 </div>
 
  <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="20%"  alt='level up'>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8" width="40%" >
+ 
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8" width="100%" >
   
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="20%"  alt='level up'>
+ 
  </div>
 
  <!--
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Symbols/Up%20Button.webp" width="20%"  alt='level up'>
    <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="20%" > 
  -->
 </div>
