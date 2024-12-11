@@ -189,10 +189,14 @@ GITHUB LOGO
  <span>
  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="100%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></span>&nbsp;
 
- <!--Отлетает-->
- <span>
+ <!--Отлетает, причина невідома
+ 
+  <span>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="@Kyle-Schwartz-Yang"/>
  </span>
+ -->
+
+
 
 </div>
 
