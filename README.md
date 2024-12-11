@@ -181,16 +181,20 @@ GITHUB LOGO
  
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S 🔦  ![Codewars](https://www.codewars.com/users/Skankhunt69/badges/micro) 
  
-
 </h1>
 
-<div align="center"><a href="">
- <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></a>&nbsp;
- <a href="">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Kyle-Schwartz-Yang"/>
- </a>
+<div align="center">
+ <span>
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="100%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></span>&nbsp;
+
+ <!--Отлетает-->
+ <span>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="@Kyle-Schwartz-Yang"/>
+ </span>
 
 </div>
+
+
 
 <!--ЗАМЕНА <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00" width="48% alt="@Kyle-Schwartz-Yang">-->
 
