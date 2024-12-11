@@ -187,7 +187,7 @@ GITHUB LOGO
 
 <div align="center">
  <span>
- <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="100%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></span>&nbsp;
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="85%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></span>&nbsp;
 
  <!--Отлетает, причина невідома
  
