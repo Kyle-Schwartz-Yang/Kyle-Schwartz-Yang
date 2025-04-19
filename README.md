@@ -100,10 +100,8 @@ GITHUB LOGO
 
 <!--І я не знаю — сила це чи слабкість.-->
 ```javascript
-try {
-  launchRocket();
-} catch(e) {
-  console.error("I love it when a plan comes together 🚀💥");
+function throwError(): never {
+  throw new Error("I love it when a plan comes together 🚀💥!");
 }
 ```
 
