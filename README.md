@@ -100,7 +100,11 @@ GITHUB LOGO
 
 <!--І я не знаю — сила це чи слабкість.-->
 ```javascript
-✨ let message = 'And I dont know whether its a strength or a weakness' ✨
+try {
+  launchRocket();
+} catch(e) {
+  console.error("I love it when a plan comes together 🚀💥");
+}
 ```
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
