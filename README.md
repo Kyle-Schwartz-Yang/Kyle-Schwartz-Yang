@@ -182,7 +182,7 @@ GITHUB LOGO
 <!--Обычная статистика-->
 <h1> 
  
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S 🔦  ![Codewars](https://www.codewars.com/users/GTX256/badges/micro) 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro) 
  
 </h1>
 
