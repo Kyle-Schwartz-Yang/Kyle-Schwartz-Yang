@@ -158,8 +158,6 @@ GITHUB LOGO
 -->
 <!--НеБольшое описание-->
 
- `Expanding my knowledge base...`⌛
-
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-282C34?style=for-the-badge&logo=redux&logoColor=61DAFB)
 
@@ -178,7 +176,7 @@ GITHUB LOGO
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white)
 ![Transition Group](https://img.shields.io/badge/Transition_Group-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
+ `⌛ Expanding my knowledge base...`
  
 
 </div>
