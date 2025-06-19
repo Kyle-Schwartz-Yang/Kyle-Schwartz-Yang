@@ -117,7 +117,9 @@ GITHUB LOGO
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif"  width="35" alt='pokemon'/> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro) 
+
+
 
  </h1>
 
@@ -188,10 +190,11 @@ GITHUB LOGO
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 
-<!--Обычная статистика-->
+<!--Обычная статистика
 <h1> 
  
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro) 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.T.A.T.U.S 🔦   
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif"  width="35" alt='pokemon'/> 
  
 </h1>
 
@@ -202,6 +205,10 @@ GITHUB LOGO
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="@Kyle-Schwartz-Yang"/>
  </span>
 
+
+-->
+
+
  <!--Отлетает, причина невідома
  <span>
  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyle-Schwartz-Yang&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="85%" alt="@Kyle-Schwartz-Yang github-readme-stats"/></span>&nbsp;
@@ -209,18 +216,22 @@ GITHUB LOGO
   <span>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyle-Schwartz-Yang&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="@Kyle-Schwartz-Yang"/>
  </span>
+
+ </div>
+
+ <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  -->
 
 
 
-</div>
+
 
 
 
 <!--ЗАМЕНА <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00" width="48% alt="@Kyle-Schwartz-Yang">-->
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 <!--Author: Harry Potter-->
