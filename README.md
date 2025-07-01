@@ -158,25 +158,28 @@ GITHUB LOGO
 <!--![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287; 
 
 -->
-<!--НеБольшое описание-->
+<!--НеБольшое описание
 
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-282C34?style=for-the-badge&logo=redux&logoColor=61DAFB)
-
 ![Lodash](https://img.shields.io/badge/Lodash-%234A148C?style=for-the-badge&logo=lodash&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Formik](https://img.shields.io/badge/Formik-0250AB?style=for-the-badge&logo=formik&logoColor=white)
-
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![classnames](https://img.shields.io/badge/classnames-grey?style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-0250AB?style=for-the-badge&logo=formik&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-444444?style=for-the-badge&logo=greensock&logoColor=white)
+
+
+-->
+
+
 
 ![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white)
 ![Transition Group](https://img.shields.io/badge/Transition_Group-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![classnames](https://img.shields.io/badge/classnames-grey?style=for-the-badge)
 
  `⌛ Expanding my knowledge base...`
  
