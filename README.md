@@ -63,8 +63,10 @@ GITHUB LOGO
 <!--Мои контакты   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming Face with Smiling Eyes.png" width="24" alt="fice hello"/>&#8287; CONNECT  </h1> -->
 <div align="center">
  
-[![Play Chess](https://img.shields.io/badge/Play_Chess-%23007C5A?style=for-the-badge&logo=chess&logoColor=white)](https://chess.com/play/Skankhunt221b)&nbsp;
-<a href="https://t.me/kim221b" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;<a href="https://discord.com/users/596636840035876875" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Play Chess](https://img.shields.io/badge/Play_Chess-%23007C5A?style=for-the-badge&logo=chess&logoColor=white)](https://chess.com/play/Skankhunt221b)&nbsp;&nbsp;
+<a href="https://t.me/x2ugzwang" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;
+<a href="mailto:gtfsolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
+<a href="https://discord.com/users/596636840035876875" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
