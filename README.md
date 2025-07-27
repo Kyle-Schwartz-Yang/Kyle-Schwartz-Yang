@@ -119,7 +119,7 @@ GITHUB LOGO
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro) 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 
 
 
 
@@ -129,15 +129,18 @@ GITHUB LOGO
 <br>
 
 <div align="center">
+ 
 
+ 🔥
 
 [![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
+[![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
 [![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
+[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
 [![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-%234B4B5D?style=for-the-badge&logo=typescript&logoColor=%233178C6)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
 [![Git](https://img.shields.io/badge/Git-%234B4B5D?style=for-the-badge&logo=git&logoColor=%23f05032)](https://github.com/Kyle-Schwartz-Yang)&#8287;
-[![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
-[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
+
 <!--
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
 -->
