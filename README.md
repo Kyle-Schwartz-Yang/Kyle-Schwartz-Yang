@@ -51,7 +51,8 @@ GITHUB LOGO
 <h3> 
  
   W.E.L.C.O.M.E
- 
+
+
 </h3>
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
@@ -131,15 +132,26 @@ GITHUB LOGO
 <div align="center">
  
 
- 🔥
+
+<a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" /></a>&#8287;&#8287;&#8287;
 
 [![HTML](https://img.shields.io/badge/HTML-%234B4B5D?style=for-the-badge&logo=html5&logoColor=%23e34f26)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
 [![PUG](https://img.shields.io/badge/PUG-%233E8C8C?style=for-the-badge&logo=pug&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
 [![CSS](https://img.shields.io/badge/CSS-%234B4B5D?style=for-the-badge&logo=css3&logoColor=%233264d1)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
 [![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-%234B4B5D?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-%234B4B5D?style=for-the-badge&logo=typescript&logoColor=%233178C6)](https://github.com/Kyle-Schwartz-Yang)&nbsp;
 [![Git](https://img.shields.io/badge/Git-%234B4B5D?style=for-the-badge&logo=git&logoColor=%23f05032)](https://github.com/Kyle-Schwartz-Yang)&#8287;
+![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white)
+
+![Transition Group](https://img.shields.io/badge/Transition_Group-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![classnames](https://img.shields.io/badge/✔_classnames-grey?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white)
+
+
 
 <!--
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%238311f6?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Kyle-Schwartz-Yang)&#8287;
@@ -150,7 +162,7 @@ GITHUB LOGO
 </div>
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-<hr>
+
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 
@@ -159,7 +171,7 @@ GITHUB LOGO
 <div align="center">
 
  
-<a href="https://onlineinterview.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" /></a>&#8287;&#8287;&#8287;
+
 <!--![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) &#8287; 
 
 -->
@@ -175,17 +187,17 @@ GITHUB LOGO
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-444444?style=for-the-badge&logo=greensock&logoColor=white)
 
-
--->
-
-
-
 ![Axios](https://img.shields.io/badge/Axios-%232C2C2C?style=for-the-badge&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white)
 ![Transition Group](https://img.shields.io/badge/Transition_Group-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![classnames](https://img.shields.io/badge/✔_classnames-grey?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white)
+-->
+
+
+
+
 
 
 
