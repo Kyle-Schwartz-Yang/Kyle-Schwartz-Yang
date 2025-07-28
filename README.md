@@ -154,6 +154,7 @@ GITHUB LOGO
 ![classnames](https://img.shields.io/badge/✔_classnames-grey?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white)
 
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 <!--
