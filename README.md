@@ -150,7 +150,7 @@ GITHUB LOGO
 ![React Router](https://img.shields.io/badge/React%20Router-%234B4B5D?style=for-the-badge&logo=react-router&logoColor=f44250)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white)
 
-![Transition Group](https://img.shields.io/badge/Transition_Group-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 ![classnames](https://img.shields.io/badge/✔_classnames-grey?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-%230A65F2?style=for-the-badge&logo=redux&logoColor=white)
 
