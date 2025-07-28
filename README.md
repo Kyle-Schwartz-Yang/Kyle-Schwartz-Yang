@@ -46,6 +46,11 @@ GITHUB LOGO
 <img src ="https://github-readme-stats.vercel.app/api?username=Kyle-Schwartz-Yang&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Schwartz-Yang&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-Schwartz-Yang&theme=merko&hide_border=true&background=FFFFFF00">
+
+
+ 
+
+
 -->
 
 <h3> 
@@ -120,9 +125,7 @@ GITHUB LOGO
 <!--Какие инструменты и какие технологи используется-->
 <h1> 
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> S.K.I.L.L.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 
-
-
+ S.K.I.L.L.S 🔦  ![Codewars](https://www.codewars.com/users/Broflovski/badges/micro)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 
 
  </h1>
 
